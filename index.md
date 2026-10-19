@@ -31,3 +31,9 @@ I am a CISC7204 student working on data analysis and visualization. This page is
 **Project repository.** [https://github.com/CHANCHENGI/data-science-project](https://github.com/CHANCHENGI/data-science-project)
 
 **Current project status.** Completed
+
+## Updates after testing
+
+Live site: [https://chanchengi.github.io/data-science-portfolio/](https://chanchengi.github.io/data-science-portfolio/)
+
+After opening the published page, I kept the required name / intro / skills / showcase block, hosted the chart in this repository so the image does not depend on an external raw URL, and set the Pages site title to my name instead of the repository name.
