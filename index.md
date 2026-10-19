@@ -26,8 +26,16 @@ I am a CISC7204 student working on data analysis and visualization. This page is
 
 ![Mean car price by manufacturer](https://raw.githubusercontent.com/CHANCHENGI/data-science-project/main/visualizations/mean_price_by_manufacturer.png)
 
-**Finding.** Jaguar, Mercedes-Benz, and Porsche sit at the high end of mean prices; mass-market makes such as Chevrolet cluster much lower. The sample is small and older, so it is not a picture of today's market.
+**Finding.** Jaguar, Mercedes-Benz, and Porsche sit at the high end of mean prices; mass-market makes such as Chevrolet cluster much lower.
+
+**Limitation.** The UCI automobiles sample is small and older, with missing prices for some makes, so this ranking is not a picture of today's car market.
 
 **Project repository.** [https://github.com/CHANCHENGI/data-science-project](https://github.com/CHANCHENGI/data-science-project)
 
 **Current project status.** Completed
+
+## Updates after classmate review
+
+Live site: [https://chanchengi.github.io/data-science-portfolio/](https://chanchengi.github.io/data-science-portfolio/)
+
+Classmate SUN JIA (MC651874) identified the purpose, main finding, and limitation. The limitation was easy to miss because it sat inside the finding sentence, so I split it into its own labelled line.
