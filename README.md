@@ -1,8 +1,9 @@
 # Data Science Portfolio — CHAN CHENG I (MC649355)
 
-CISC7204 Practice 09 public portfolio. GitHub Pages hosts this repository.
-
-## Featured project
-[Mean Car Prices of Manufacturers](https://github.com/CHANCHENGI/data-science-project) — mean automobile price by manufacturer (UCI automobiles / Tutorial 09).
+CISC7204 Practice 09 public portfolio (GitHub Pages).
 
 Live site: https://chanchengi.github.io/data-science-portfolio/
+
+The site includes my name, a short introduction, technical skills, and one project showcase (title, research question, chart, findings, repository link, status Completed).
+
+Publishing source: Settings → Pages → Deploy from a branch → `main` → `/ (root)`.
