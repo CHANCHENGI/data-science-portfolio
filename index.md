@@ -6,36 +6,55 @@ title: Data Science Portfolio
 
 MC649355 · CISC7204-001-D · University of Macau
 
-## Brief introduction
+## About me
 
-I am a CISC7204 student working on data analysis and visualization. This page is my public data-science portfolio for Practice 09. I use Python to clean a dataset, compute a simple summary, and show the result in a chart.
+I am a CISC7204 student. I use Python to clean public tables, check that the numbers can be traced, and show the result in charts.
 
 ## Technical skills
 
-- Python 3, pandas, matplotlib, Bokeh
-- Jupyter Notebook
-- Git / GitHub / GitHub Pages
+- Python, pandas, and matplotlib
+- Cleaning and merging monthly official tables
+- Correlation and simple regression
+- GitHub and project documentation
 
-## Project showcase
+## Featured project: Restaurant payments and visitors in Macao
 
-### Mean Car Prices of Manufacturers
+### Research question
 
-**Research question.** Which automobile manufacturers have the highest mean vehicle prices in the UCI automobiles sample?
+Between January 2025 and September 2026, how were monthly overnight and same-day visitor arrivals associated with restaurant electronic payment value in Macao?
 
-**Visualization.** Mean price by manufacturer (UCI `automobiles.csv`):
+### Approach
+
+I used the monthly payment amounts stated in DSEC releases and the visitor counts for the same months. Python, pandas, and matplotlib produced the charts. A two-predictor regression was used only as an exploratory check.
+
+### Visualization
+
+![Monthly restaurant electronic payment value in MOP million](images/restaurant_payment.png)
+
+### Findings
+
+Same-day arrivals move a little more closely with restaurant payments than overnight arrivals do. In September 2026 the payment value was MOP1.10 billion, with 1,933,257 same-day visitors and 1,283,278 overnight visitors.
+
+### Limitation
+
+The series has 21 months, about one seasonal cycle. The two visitor groups rise and fall together, so a separate overnight effect is not stable. These figures describe this sample. They do not show cause.
+
+### Project repository
+
+[View the code and README](https://github.com/CHANCHENGI/data-science-project)
+
+### Status
+
+Ongoing. The proposal and these charts are done. The final report is not.
+
+## Earlier project: Mean car prices
+
+**Research question.** Which manufacturers have the highest mean prices in the UCI automobiles sample?
 
 ![Mean car price by manufacturer](visualizations/mean_price_by_manufacturer.png)
 
-**Finding.** Jaguar, Mercedes-Benz, and Porsche sit at the high end of mean prices; mass-market makes such as Chevrolet cluster much lower.
+**Finding.** Jaguar, Mercedes-Benz, and Porsche sit at the high end. Mass-market makes such as Chevrolet sit much lower.
 
-**Limitation.** The UCI automobiles sample is small and older, with missing prices for some makes, so this ranking is not a picture of today's car market.
+**Limitation.** The UCI sample is small and older, so the ranking is not today's car market.
 
-**Project repository.** [https://github.com/CHANCHENGI/data-science-project](https://github.com/CHANCHENGI/data-science-project)
-
-**Current project status.** Completed
-
-## Updates after classmate review
-
-Live site: [https://chanchengi.github.io/data-science-portfolio/](https://chanchengi.github.io/data-science-portfolio/)
-
-Classmate SUN JIA (MC651874) identified the purpose, main finding, and limitation. The limitation was easy to miss because it sat inside the finding sentence, so I split it into its own labelled line.
+**Status.** Completed
