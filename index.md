@@ -37,7 +37,13 @@ Same-day arrivals move a little more closely with restaurant payments than overn
 
 ### Limitation
 
-The series has 21 months, about one seasonal cycle. The two visitor groups rise and fall together, so a separate overnight effect is not stable. These figures describe this sample. They do not show cause.
+The series has 21 months, about one seasonal cycle. The two visitor groups rise and fall together, so a separate overnight effect is not stable. These figures describe this sample. They do not show cause. The vertical axis is MOP million. January 2025 is the revised DSEC figure of MOP1.30 billion, not the first published estimate.
+
+## Revision after review
+
+Team review, 4 November 2026: the payment chart did not say, in the text, what the measurement was, or that January 2025 had been revised.
+
+Improvement: the caption and the project README now state MOP million, the revised January figure, and that the result is an association in this 21-month sample.
 
 ### Project repository
 
