@@ -64,3 +64,8 @@ Ongoing. The proposal and these charts are done. The final report is not.
 **Limitation.** The UCI sample is small and older, so the ranking is not today's car market.
 
 **Status.** Completed
+
+## Coursework
+
+- [Assignment 01](https://github.com/CHANCHENGI/CISC7204-MC649355-2026GitHub) — Modules 01 to 06
+- [Assignment 02](https://github.com/CHANCHENGI/CISC7204-MC649355-2026GitHub/tree/main/cisc7204-Assgn02-2026-MC649355) — Modules 01 to 05
